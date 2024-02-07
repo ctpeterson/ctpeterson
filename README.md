@@ -1,5 +1,7 @@
 ### Hi there, I'm Curtis Taylor Peterson! 👋
 
+I am a Ph.D. student at the University of Colorado Boulder and soon-to-be postdoc at Michigan State University. My research focuses on the application of renormalization group techniques to strongly-coupled gauge-fermion systems. 
+
 <!--
 **ctpeterson/ctpeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
