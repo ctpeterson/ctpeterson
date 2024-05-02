@@ -1,6 +1,21 @@
 ### Hi there, I'm Curtis Taylor Peterson! 👋
 
-I am a Ph.D. student at the University of Colorado Boulder and soon-to-be postdoc at Michigan State University. My research focuses on the application of renormalization group techniques to strongly-coupled gauge-fermion systems. 
+I am a computational physicist specializing in lattice field theory. 
+
+```python
+past_august_2024 = False
+curtisp = {
+  'occupation': 'research assistant' if past_august_2024 else 'postdoc at Michigan State University',
+  'education': {
+    '2019': {'level': 'B.S.', 'major(s)': ['physics', 'mathematics'], 'institution': 'Arizona State University'},
+    '2022': {'level': 'M.S.', 'major(s)': ['physics'], 'institution': 'University of Colorado Boulder'},
+    '2024': {'level': 'Ph.D.', 'major(s)': ['physics'], 'institution': 'University of Colorado Boulder'},
+  },
+  'website': 'https://curtistaylorpeterson.com/',
+  'inspirehep': 'https://inspirehep.net/authors/1814730', 
+  'Google scholar': 'https://shorturl.at/fjKMP',
+}
+```
 
 <!--
 **ctpeterson/ctpeterson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
