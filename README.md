@@ -1,6 +1,6 @@
 ### Hi there, I'm Curtis Taylor Peterson! 👋
 
-I am a computational physicist specializing in lattice field theory. 
+I am a computational physicist that specializes in lattice field theory
 
 ```python
 past_august_2024 = False
