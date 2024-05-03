@@ -12,8 +12,8 @@ curtisp = {
     '2024': {'level': 'Ph.D.', 'major(s)': ['physics'], 'institution': 'University of Colorado Boulder'},
   },
   'website': 'https://curtistaylorpeterson.com/',
-  'inspirehep': 'https://inspirehep.net/authors/1814730', 
-  'Google scholar': 'https://shorturl.at/fjKMP',
+  'Inspire HEP': 'https://inspirehep.net/authors/1814730', 
+  'Google Scholar': 'https://shorturl.at/fjKMP',
 }
 ```
 
