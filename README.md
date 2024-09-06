@@ -3,9 +3,8 @@
 I am a computational physicist that specializes in lattice field theory
 
 ```python
-past_august_2024 = False
 curtisp = {
-  'occupation': 'research assistant' if past_august_2024 else 'postdoc at Michigan State University',
+  'occupation': 'postdoc at Michigan State University',
   'education': {
     '2019': {'level': 'B.S.', 'major(s)': ['physics', 'mathematics'], 'institution': 'Arizona State University'},
     '2022': {'level': 'M.S.', 'major(s)': ['physics'], 'institution': 'University of Colorado Boulder'},
