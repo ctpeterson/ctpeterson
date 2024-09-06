@@ -4,7 +4,7 @@ I am a computational physicist that specializes in lattice field theory
 
 ```python
 curtisp = {
-  'occupation': 'postdoc at Michigan State University',
+  'occupation': 'postdoctoral fellow at Michigan State University',
   'education': {
     '2019': {'level': 'B.S.', 'major(s)': ['physics', 'mathematics'], 'institution': 'Arizona State University'},
     '2022': {'level': 'M.S.', 'major(s)': ['physics'], 'institution': 'University of Colorado Boulder'},
