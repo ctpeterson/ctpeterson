@@ -12,7 +12,7 @@ curtisp = {
   },
   'website': 'https://curtistaylorpeterson.com/',
   'Inspire HEP': 'https://inspirehep.net/authors/1814730', 
-  'Google Scholar': 'https://shorturl.at/fjKMP',
+  'Google Scholar': 'https://scholar.google.com/citations?user=zaO8IX8AAAAJ&hl=en&oi=ao',
 }
 ```
 
