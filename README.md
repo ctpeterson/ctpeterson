@@ -1,18 +1,39 @@
 ### Hi there, I'm Curtis Taylor Peterson! 👋
 
-I am a computational physicist that specializes in lattice field theory
+I am a computational physicist that specializes in lattice field theory. I am interested primarily in
+software development for high-performance computing and the application of renormalization group techniques
+to strongly-coupled field theories; however, I love to dabble and explore topics ranging from machine 
+learning to differential geometry and just about anything in-between. 
 
 ```python
 curtisp = {
-  'occupation': 'postdoctoral fellow at Michigan State University',
-  'education': {
-    '2019': {'level': 'B.S.', 'major(s)': ['physics', 'mathematics'], 'institution': 'Arizona State University'},
-    '2022': {'level': 'M.S.', 'major(s)': ['physics'], 'institution': 'University of Colorado Boulder'},
-    '2024': {'level': 'Ph.D.', 'major(s)': ['physics'], 'institution': 'University of Colorado Boulder'},
+  'occupation': 'Postdoctoral Fellow at Michigan State University',
+  'education':
+  {
+    'Bachelor of Science with Honors':
+    {
+      'year': '2019',
+      'major(s)': ['physics', 'mathematics'],
+      'institution': 'Arizona State University',
+      'thesis': 'Numerical Simulations of Heavy Quark Exotica'
+    },
+    'Master of Science':
+    {
+      'year': '2022',
+      'concentration': ['physics'],
+      'institution': 'University of Colorado Boulder'
+    },
+    'Doctor of Philosophy':
+    {
+      'year': '2024',
+      'concentration(s)': {'physics': ['renormalization group', 'lattice gauge theory']},
+      'institution': 'University of Colorado Boulder',
+      'thesis': 'Application of Contemporary Renormalization Group Techniques to Strongly-Coupled Field Theories'
+    },
   },
   'website': 'https://curtistaylorpeterson.com/',
   'Inspire HEP': 'https://inspirehep.net/authors/1814730', 
-  'Google Scholar': 'https://scholar.google.com/citations?user=zaO8IX8AAAAJ&hl=en&oi=ao',
+  'Google Scholar': 'https://scholar.google.com/citations?user=zaO8IX8AAAAJ&hl=en&oi=ao'
 }
 ```
 
