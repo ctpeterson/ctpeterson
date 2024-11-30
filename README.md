@@ -8,6 +8,9 @@ learning to differential geometry and just about anything in-between.
 ```python
 curtisp = {
   'occupation': 'Postdoctoral Fellow at Michigan State University',
+  'website': 'https://curtistaylorpeterson.com/',
+  'Inspire HEP': 'https://inspirehep.net/authors/1814730', 
+  'Google Scholar': 'https://scholar.google.com/citations?user=zaO8IX8AAAAJ&hl=en&oi=ao',
   'education':
   {
     'Bachelor of Science with Honors':
@@ -31,9 +34,6 @@ curtisp = {
       'thesis': 'Application of Contemporary Renormalization Group Techniques to Strongly-Coupled Field Theories'
     },
   },
-  'website': 'https://curtistaylorpeterson.com/',
-  'Inspire HEP': 'https://inspirehep.net/authors/1814730', 
-  'Google Scholar': 'https://scholar.google.com/citations?user=zaO8IX8AAAAJ&hl=en&oi=ao'
 }
 ```
 
