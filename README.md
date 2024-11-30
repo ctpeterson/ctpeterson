@@ -32,8 +32,8 @@ curtisp = {
       'concentration(s)': {'physics': ['renormalization group', 'lattice gauge theory']},
       'institution': 'University of Colorado Boulder',
       'thesis': 'Application of Contemporary Renormalization Group Techniques to Strongly-Coupled Field Theories'
-    },
-  },
+    }
+  }
 }
 ```
 
