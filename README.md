@@ -1,13 +1,13 @@
 ### Hi there, I'm Curtis Taylor Peterson! 👋
 
-I am a computational physicist that specializes in lattice field theory. I am interested primarily in
+I am a computational particle physicist that specializes in lattice field theory. I am interested primarily in
 software development for high-performance computing and the application of renormalization group techniques
 to strongly-coupled field theories; however, I love to dabble and explore topics ranging from machine 
 learning to differential geometry and just about anything in-between. 
 
 ```python
 curtisp = {
-  'occupation': 'Postdoctoral Fellow at Michigan State University',
+  'occupation': 'Postdoctoral Research Associate at Michigan State University',
   'website': 'https://curtistaylorpeterson.com/',
   'Inspire HEP': 'https://inspirehep.net/authors/1814730', 
   'Google Scholar': 'https://scholar.google.com/citations?user=zaO8IX8AAAAJ&hl=en&oi=ao',
