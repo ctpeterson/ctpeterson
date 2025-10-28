@@ -2,7 +2,7 @@
 
 I am a computational particle physicist that specializes in lattice field theory. I am interested primarily in
 software development for high-performance computing and the application of renormalization group techniques
-to strongly-coupled field theories; however, I love to dabble and explore topics ranging from machine 
+to strongly-coupled field theories; however, I love to explore topics ranging from machine 
 learning to differential geometry and just about anything in-between. 
 
 ```python
