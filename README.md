@@ -34,7 +34,7 @@ curtisp = {
       'thesis': 'Application of Contemporary Renormalization Group Techniques to Strongly-Coupled Field Theories'
     }
   },
-  'other': ['husband', 'cat dad', 'metal fan']
+  'other': ['husband', 'cat dad', 'metal head']
 }
 ```
 
