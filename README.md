@@ -1,10 +1,10 @@
 ### Hi there, I'm Curtis Taylor Peterson! 👋
 
-I am a computational something or other in the midst of transitioning out of academia. 
+I am a computational something or other in the midst of transitioning out of academia. I love writing everything from low-level SIMD software to high-level statistical analysis. I have lots of experience writing, optimizing, and deploying high-performance software on distributed architectures comprised of CPU and GPU units. 
 
 ```python
 curtisp = {
-  'occupation': 'Postdoctoral Research Associate at Michigan State University',
+  'occupation': 'Postdoc at Michigan State University',
   'website': 'https://curtistaylorpeterson.com/',
   'Inspire HEP': 'https://inspirehep.net/authors/1814730', 
   'Google Scholar': 'https://scholar.google.com/citations?user=zaO8IX8AAAAJ&hl=en&oi=ao',
