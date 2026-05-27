@@ -1,6 +1,6 @@
 ### Hi there, I'm Curtis Taylor Peterson! 👋
 
-I am a computational something or other in the midst of transitioning out of academia. I love writing everything from low-level SIMD software to high-level statistical analysis. I have lots of experience writing, optimizing, and deploying high-performance software on distributed architectures comprised of CPU and GPU units. 
+I am a computational something or other in the midst of transitioning out of academia. I love writing everything from low-level SIMD software to high-level statistical analysis. I have lots of experience writing, optimizing, and deploying high-performance software on distributed architectures comprised of numerous CPU and GPU units. I particularly enjoy designing software that strikes a balance between ease-of-use/productivity and performance. 
 
 ```python
 curtisp = {
