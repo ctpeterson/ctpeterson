@@ -1,6 +1,6 @@
 ### Hi there, I'm Curtis Taylor Peterson! 👋
 
-I am a computational physicist in the midst of transitioning out of academia. 
+I am a computational something or other in the midst of transitioning out of academia. 
 
 ```python
 curtisp = {
